@@ -1,0 +1,22 @@
+[2022-09-14 15:49:45.163] [exthost] [info] Extension host with pid 2189 started
+[2022-09-14 15:49:45.163] [exthost] [info] Skipping acquiring lock for /home/turbobato/.config/Code - OSS/User/workspaceStorage/4116f390580fab0f02e9196d084c367c.
+[2022-09-14 15:49:45.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-14 15:49:45.236] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-14 15:49:45.239] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-14 15:49:45.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-14 15:49:45.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-14 15:49:45.314] [exthost] [info] Eager extensions activated
+[2022-09-14 15:49:45.334] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-14 15:49:45.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-14 15:50:04.970] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-14 15:50:04.976] [exthost] [info] Extension host with pid 2189 exiting with code 0
+[2022-09-14 15:50:07.101] [exthost] [info] Extension host with pid 2347 started
+[2022-09-14 15:50:07.101] [exthost] [info] Skipping acquiring lock for /home/turbobato/.config/Code - OSS/User/workspaceStorage/8da90c854dc295d065d7ce165de642ba.
+[2022-09-14 15:50:07.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-14 15:50:07.203] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-14 15:50:07.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-14 15:50:07.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-14 15:50:07.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-14 15:50:07.266] [exthost] [info] Eager extensions activated
+[2022-09-14 15:50:07.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-14 15:50:07.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

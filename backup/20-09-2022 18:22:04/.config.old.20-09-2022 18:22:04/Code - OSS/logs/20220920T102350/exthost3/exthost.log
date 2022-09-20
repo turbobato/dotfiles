@@ -1,0 +1,23 @@
+[2022-09-20 10:52:33.130] [exthost] [info] Extension host with pid 9912 started
+[2022-09-20 10:52:33.239] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-20 10:52:33.242] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-20 10:52:33.246] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-20 10:52:33.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-20 10:52:33.304] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-20 10:52:33.337] [exthost] [info] Eager extensions activated
+[2022-09-20 10:52:33.347] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-20 10:52:33.355] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-20 10:52:42.697] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-20 10:52:42.703] [exthost] [info] Extension host with pid 9912 exiting with code 0
+[2022-09-20 10:52:44.333] [exthost] [info] Extension host with pid 9987 started
+[2022-09-20 10:52:44.333] [exthost] [info] Skipping acquiring lock for /home/turbobato/.config/Code - OSS/User/workspaceStorage/8da90c854dc295d065d7ce165de642ba.
+[2022-09-20 10:52:44.436] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-20 10:52:44.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-20 10:52:44.442] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-20 10:52:44.471] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-20 10:52:44.493] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-20 10:52:44.771] [exthost] [info] Eager extensions activated
+[2022-09-20 10:52:44.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-20 10:52:44.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-20 11:10:04.156] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-20 11:10:04.166] [exthost] [info] Extension host with pid 9987 exiting with code 0

@@ -1,0 +1,10 @@
+[2022-09-20 17:14:06.737] [sharedprocess] [info] Starting worker process with pid 1330 (type: fileWatcher, window: 1).
+[2022-09-20 17:17:33.001] [sharedprocess] [info] Starting worker process with pid 2188 (type: fileWatcher, window: 3).
+[2022-09-20 17:30:49.520] [sharedprocess] [info] Starting worker process with pid 4026 (type: fileWatcher, window: 4).
+[2022-09-20 17:37:38.449] [sharedprocess] [info] Worker process with pid 4026 terminated normally (type: fileWatcher, window: 4).
+[2022-09-20 17:48:30.592] [sharedprocess] [info] Worker process with pid 2188 terminated normally (type: fileWatcher, window: 3).
+[2022-09-20 17:48:32.238] [sharedprocess] [info] Starting worker process with pid 5635 (type: fileWatcher, window: 3).
+[2022-09-20 17:52:18.611] [sharedprocess] [info] Worker process with pid 5635 terminated normally (type: fileWatcher, window: 3).
+[2022-09-20 17:52:20.265] [sharedprocess] [info] Starting worker process with pid 6430 (type: fileWatcher, window: 3).
+[2022-09-20 18:09:09.286] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 6430 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 3)
+[2022-09-20 18:09:09.300] [sharedprocess] [info] Starting worker process with pid 8229 (type: fileWatcher, window: 3).
