@@ -1,5 +1,0 @@
-[2022-09-20 16:49:40.098] [main] [info] update#ctor - updates are disabled as there is no update URL
-[2022-09-20 16:49:43.125] [main] [info] Starting extension host with pid 2720 (fork() took 9 ms).
-[2022-09-20 16:50:08.072] [main] [info] Extension host with pid 2720 exited with code: 0, signal: null.
-[2022-09-20 16:50:09.519] [main] [info] Starting extension host with pid 2984 (fork() took 7 ms).
-[2022-09-20 17:12:33.624] [main] [info] Extension host with pid 2984 exited with code: 0, signal: null.

@@ -1,3 +1,4 @@
 {
-    "editor.fontFamily": "Iosevka Nerd Font"
+    "editor.fontFamily": "Iosevka Nerd Font",
+    "workbench.colorTheme": "Ayu Mirage"
 }

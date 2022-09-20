@@ -13,6 +13,9 @@ cd ..
 # Script for copying config files in this repository 
 # Use -T option on cp to overwrite directories
 cp -rT "$HOME/.i3" dotfiles/.i3
-cp -rT "$HOME/.config" dotfiles/.config
+cp -rT "$HOME/.Xresources" dotfiles/.Xresources
+cp -rT "$HOME/.config/picom.conf" dotfiles/.config/picom.conf
+cp -rT "$HOME/.config/Code - OSS/User/settings.json" "dotfiles/.config/Code - OSS/User/settings.json"
+cp -rT "$HOME/.config/i3status.conf" dotfiles/.config/i3status.conf
 cp -rT "$HOME/.zshrc" dotfiles/.zshrc 
 cp -rT "$HOME/.gitconfig" dotfiles/.gitconfig
