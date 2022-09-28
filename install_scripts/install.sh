@@ -15,3 +15,5 @@ cd xidlehook
 makepkg -si
 # Install iosevka font
 pacman -Syu ttf-iosevka-nerd
+# Copy zsh theme to oh-my-zsh themes
+cp dotfiles/helix.zsh-theme "$HOME/.oh-my-zsh/themes"
