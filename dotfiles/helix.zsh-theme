@@ -28,5 +28,5 @@ ZSH_THEME_GIT_PROMPT_SUFFIX="]"
 ZSH_THEME_GIT_PROMPT_DIRTY="*"
 ZSH_THEME_GIT_PROMPT_CLEAN=""
 
-PROMPT='$(left_bracket) $(username)$(directory)%{$FG[117]%}$(git_prompt_info)%f$(right_bracket) $(lambda) '
+PROMPT='$(left_bracket) $(username) $(directory)%{$FG[117]%}$(git_prompt_info)%f$(right_bracket) $(lambda) '
 RPROMPT=''
