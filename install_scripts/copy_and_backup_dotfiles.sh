@@ -12,6 +12,7 @@ cd ..
 
 # Script for copying config files in this repository 
 # Use -T option on cp to overwrite directories
+cp -rT "$HOME/.config/helix/config.toml" dotfiles/.config/helix/config.toml
 cp -rT "$HOME/.i3" dotfiles/.i3
 cp -rT "$HOME/.Xresources" dotfiles/.Xresources
 cp -rT "$HOME/.config/picom.conf" dotfiles/.config/picom.conf

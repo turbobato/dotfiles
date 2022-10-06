@@ -100,6 +100,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# Browser environment variable
+alias hx="helix"
+
+# Environment variables
 export BROWSER=/usr/bin/firefox
+# Remove sound when error during autocomplete
 unsetopt BEEP
