@@ -18,6 +18,7 @@ cp -rT "$HOME/.Xresources" dotfiles/.Xresources
 cp -rT "$HOME/.config/picom.conf" dotfiles/.config/picom.conf
 cp -rT "$HOME/.config/Code - OSS/User/settings.json" "dotfiles/.config/Code - OSS/User/settings.json"
 cp -rT "$HOME/.config/i3status.conf" dotfiles/.config/i3status.conf
+cp -rT "$HOME/.config/alacritty/alacritty.yml" dotfiles/.config/alacritty.yml
 cp -rT "$HOME/.config/kitty" dotfiles/.config/kitty
 cp -rT "$HOME/.zshrc" dotfiles/.zshrc 
 cp -rT "$HOME/.gitconfig" dotfiles/.gitconfig

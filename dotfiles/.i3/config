@@ -27,7 +27,7 @@ font pango:Noto Sans Mono 11
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec kitty
+bindsym $mod+Return exec alacritty
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -290,7 +290,7 @@ exec --no-startup-id pamac-tray
 # exec_always --no-startup-id sbxkb
 exec --no-startup-id start_conky_maia
 # exec --no-startup-id start_conky_green
-exec --no-startup_id xidlehook --not-when-fullscreen --not-when-audio --timer normal 600 blurlock
+exec --no-startup-id xidlehook --detect-sleep --not-when-audio --not-when-fullscreen --timer 300 'blurlock' '' --timer 600 'systemctl suspend' ''
 # exec --no-startup-id xautolock -time 10 -locker blurlock
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
