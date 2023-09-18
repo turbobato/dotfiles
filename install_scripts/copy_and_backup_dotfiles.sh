@@ -22,3 +22,4 @@ cp -rT "$HOME/.config/alacritty/alacritty.yml" dotfiles/.config/alacritty.yml
 cp -rT "$HOME/.config/kitty" dotfiles/.config/kitty
 cp -rT "$HOME/.zshrc" dotfiles/.zshrc 
 cp -rT "$HOME/.gitconfig" dotfiles/.gitconfig
+cp -rT "$HOME/.config/nvim" dotfiles/.config/nvim

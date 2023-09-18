@@ -106,3 +106,6 @@ alias hx="helix"
 export BROWSER=/usr/bin/firefox
 # Remove sound when error during autocomplete
 unsetopt BEEP
+
+# opam configuration
+[[ ! -r /home/turbobato/.opam/opam-init/init.zsh ]] || source /home/turbobato/.opam/opam-init/init.zsh  > /dev/null 2> /dev/null

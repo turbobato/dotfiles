@@ -1,4 +1,7 @@
 {
-    "editor.fontFamily": "Iosevka Nerd Font",
-    "workbench.colorTheme": "Ayu Mirage"
+    "editor.fontFamily": "Hack Nerd Font",
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "git.suggestSmartCommit": false,
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": 1
 }
